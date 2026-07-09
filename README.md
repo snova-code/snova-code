@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,25:0a0118,50:B026FF,75:FF10F0,100:00FFF7&height=280&section=header&text=Ishwari%20Raut&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Cloud%20Explorer%20%E2%80%A2%20Flutter%20Builder%20%E2%80%A2%20AI%20Automation%20Architect%20%E2%9A%A1&descAlignY=58&descSize=15" width="100%"/>
 
-<a href="https://github.com/eshu91">
+<a href="https://github.com/snova-code">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1+Cloud+%26+Flutter+Developer;%F0%9F%92%BE+IT+Educator+%7C+AI+Tools+Explorer;%F0%9F%9B%B0%EF%B8%8F+Builder+of+Real+Things;%F0%9F%87%B3%F0%9F%87%B5+From+Nepal+with+Neon+Dreams&font=Fira+Code&center=true&width=620&height=55&color=00FFF7&vCenter=true&pause=1200&size=24&duration=3500" alt="Typing SVG" />
 </a>
 
@@ -22,16 +22,16 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=eshu91&label=PROFILE+VIEWS&color=00FFF7&style=flat-square&labelColor=020014" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=snova-code&label=PROFILE+VIEWS&color=00FFF7&style=flat-square&labelColor=020014" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/eshu91?label=FOLLOWERS&style=flat-square&color=FF10F0&labelColor=020014" alt="followers" />
+<img src="https://img.shields.io/github/followers/snova-code?label=FOLLOWERS&style=flat-square&color=FF10F0&labelColor=020014" alt="followers" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/eshu91?label=STARS&style=flat-square&color=FFB627&labelColor=020014" alt="stars" />
+<img src="https://img.shields.io/github/stars/snova-code?label=STARS&style=flat-square&color=FFB627&labelColor=020014" alt="stars" />
 
 <br/><br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshu91&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4&title=Followers,Stars,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=snova-code&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4&title=Followers,Stars,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="trophies" />
 </a>
 
 </div>
@@ -85,7 +85,7 @@
 class IshwariRaut:
     def __init__(self):
         self.name      = "Ishwari Raut"
-        self.alias     = "eshu91"
+        self.alias     = "snova-code"
         self.location  = "Itahari, Nepal 🇳🇵"
         self.education = "BCA — Vishwa Adarsha College (2024)"
         self.languages = ["नेपाली 🇳🇵", "English 🇬🇧",
@@ -501,21 +501,21 @@ class IshwariRaut:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshu91&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0118&title_color=00FFF7&icon_color=FF10F0&text_color=ffffff&ring_color=B026FF" height="180px" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snova-code&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0118&title_color=00FFF7&icon_color=FF10F0&text_color=ffffff&ring_color=B026FF" height="180px" alt="GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshu91&langs_count=8&layout=compact&hide_border=true&bg_color=0a0118&title_color=00FFF7&text_color=ffffff" height="180px" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snova-code&langs_count=8&layout=compact&hide_border=true&bg_color=0a0118&title_color=00FFF7&text_color=ffffff" height="180px" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshu91&hide_border=true&background=0a0118&stroke=B026FF&ring=00FFF7&fire=FF10F0&currStreakLabel=00FFF7&sideLabels=ffffff&dates=B026FF&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snova-code&hide_border=true&background=0a0118&stroke=B026FF&ring=00FFF7&fire=FF10F0&currStreakLabel=00FFF7&sideLabels=ffffff&dates=B026FF&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=eshu91&bg_color=0a0118&color=FFB627&line=00FFF7&point=FF10F0&area=true&area_color=B026FF&hide_border=true&custom_title=Contribution+Graph%20%E2%9A%A1" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=snova-code&bg_color=0a0118&color=FFB627&line=00FFF7&point=FF10F0&area=true&area_color=B026FF&hide_border=true&custom_title=Contribution+Graph%20%E2%9A%A1" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=eshu91&limit=5&combine_all_yearly_contributions=true&hide_border=true&title_color=00FFF7&text_color=ffffff&icon_color=FF10F0&bg_color=0a0118" alt="contributor stats" />
+<img src="https://github-contributor-stats.vercel.app/api?username=snova-code&limit=5&combine_all_yearly_contributions=true&hide_border=true&title_color=00FFF7&text_color=ffffff&icon_color=FF10F0&bg_color=0a0118" alt="contributor stats" />
 
 </div>
 
