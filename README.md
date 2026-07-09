@@ -15,7 +15,7 @@
 
 <!-- ░░ ROLE BADGES — frosted void with neon labels ░░ -->
 
-![Cloud Intern](https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_INTERN-0a0118?style=for-the-badge&labelColor=00FFF7&color=0a0118)
+![Cloud Engineer](https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_ENGINEER-0a0118?style=for-the-badge&labelColor=00FFF7&color=0a0118)
 ![Flutter Dev](https://img.shields.io/badge/%F0%9F%93%B1_FLUTTER_DEV-0a0118?style=for-the-badge&labelColor=FF10F0&color=0a0118)
 ![CS Teacher](https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB_CS_TEACHER-0a0118?style=for-the-badge&labelColor=B026FF&color=0a0118)
 ![AI Builder](https://img.shields.io/badge/%F0%9F%A4%96_AI_BUILDER-0a0118?style=for-the-badge&labelColor=FFB627&color=0a0118)
@@ -92,7 +92,7 @@ class IshwariRaut:
                           "हिन्दी 🇮🇳", "Deutsch 🇩🇪"]
 
         self.roles = [
-            "☁️  Cloud Computing Intern   →  Everest IT",
+            "☁️  Cloud Computing Engineer   →  Everest IT",
             "👩‍🏫 CS Teacher (Part-Time)   →  Everest IT",
             "📱 ex-Flutter Developer     →  Quality IT Solutions",
         ]
@@ -471,7 +471,7 @@ class IshwariRaut:
 │  ⟪ 2024 ⟫  ✅  BCA Graduate                                     │
 │              └─ Vishwa Adarsha College                          │
 │                                                                 │
-│  ⟪ 2025 ⟫  ✅  Cloud Intern + CS Teacher                        │
+│  ⟪ 2025 ⟫  ✅  Cloud Engineer + CS Teacher                        │
 │              └─ Everest IT                                      │
 │                                                                 │
 │  ⟪ 2025 ⟫  ✅  Built SMS · Expense · Study Tracker              │
