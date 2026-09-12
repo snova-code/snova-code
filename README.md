@@ -5,20 +5,21 @@
 <!-- ║  #020014 · #00FFF7 · #FF10F0 · #B026FF · #FFB627            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,25:0a0118,50:B026FF,75:FF10F0,100:00FFF7&height=280&section=header&text=Ishwari%20Raut&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20IT%20Engineer%20%E2%80%A2%20ML%20%26%20Research%20%E2%80%A2%20Cloud%20%26%20Full-Stack%20Builder%20%E2%9A%A1&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,25:0a0118,50:B026FF,75:FF10F0,100:00FFF7&height=280&section=header&text=Ishwari%20Raut&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20AI%20Agents%20%26%20Automation%20%E2%80%A2%20ML%20Research%20%26%20Cloud%20Infrastructure&descAlignY=58&descSize=15" width="100%"/>
 
 <a href="https://github.com/snova-code">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1+IT+Engineer+%40+Everest+IT;%F0%9F%A7%AA+ML+%26+Research+%7C+LLM+Bias+Audits;%E2%98%81%EF%B8%8F+Cloud+%C2%B7+Laravel+%C2%B7+Flutter;%F0%9F%87%B3%F0%9F%87%B5+From+Nepal+with+Neon+Dreams&font=Fira+Code&center=true&width=620&height=55&color=00FFF7&vCenter=true&pause=1200&size=24&duration=3500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Engineer+%40+Everest+IT;AI+Agents+%26+Workflow+Automation;ML+Research+%7C+LLM+Evaluation;Cloud+Infrastructure+%26+Full-Stack+Development&font=Fira+Code&center=true&width=660&height=55&color=00FFF7&vCenter=true&pause=1200&size=23&duration=3800" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ░░ ROLE BADGES — frosted void with neon labels ░░ -->
+<!-- ░░ ROLE BADGES ░░ -->
 
-![IT Engineer](https://img.shields.io/badge/%E2%98%81%EF%B8%8F_IT_ENGINEER-0a0118?style=for-the-badge&labelColor=00FFF7&color=0a0118)
-![ML Research](https://img.shields.io/badge/%F0%9F%A7%AA_ML_%26_RESEARCH-0a0118?style=for-the-badge&labelColor=FF10F0&color=0a0118)
-![CS Teacher](https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB_CS_TEACHER-0a0118?style=for-the-badge&labelColor=B026FF&color=0a0118)
-![Full Stack Dev](https://img.shields.io/badge/%F0%9F%90%98_FULL--STACK_DEV-0a0118?style=for-the-badge&labelColor=FFB627&color=0a0118)
+![IT Engineer](https://img.shields.io/badge/IT_ENGINEER-0a0118?style=for-the-badge&labelColor=00FFF7&color=0a0118)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS_%26_AUTOMATION-0a0118?style=for-the-badge&labelColor=FF10F0&color=0a0118)
+![ML Research](https://img.shields.io/badge/ML_RESEARCH-0a0118?style=for-the-badge&labelColor=B026FF&color=0a0118)
+![Full Stack](https://img.shields.io/badge/FULL--STACK_DEVELOPER-0a0118?style=for-the-badge&labelColor=FFB627&color=0a0118)
+![CS Instructor](https://img.shields.io/badge/CS_INSTRUCTOR-0a0118?style=for-the-badge&labelColor=00FFF7&color=0a0118)
 
 <br/><br/>
 
@@ -38,7 +39,7 @@
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░ MISSION CONTROL ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░ AT A GLANCE ░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
@@ -76,21 +77,26 @@
 
 </div>
 
+I build and operate systems that run without supervision — enterprise IT infrastructure,
+multi-tenant web platforms, and increasingly the agentic and automation layer that ties
+them together. My work runs from Windows Server and Active Directory through Laravel and
+Flutter applications, into LLM-driven workflow automation and applied machine learning
+research.
+
 ```python
 ╔══════════════════════════════════════════════════════════════╗
 ║  >> system.boot("IshwariRaut.profile")                       ║
 ║  >> loading... [████████████████████████████████] 100%       ║
 ╠══════════════════════════════════════════════════════════════╣
-
 class IshwariRaut:
     def __init__(self):
         self.name      = "Ishwari Raut"
         self.alias     = "snova-code"
-        self.location  = "Itahari, Nepal 🇳🇵"
-        self.education = "BCA — Vishwa Adarsha College, TU (2024)"
+        self.location  = "Itahari, Nepal"
+        self.education = "BCA — Vishwa Adarsha College, Tribhuvan University (2024)"
         self.grade     = "3.48 / 4.00 · First Division"
-        self.languages = ["नेपाली 🇳🇵", "English 🇬🇧",
-                          "हिन्दी 🇮🇳", "Deutsch 🇩🇪 (A1 ✅)"]
+        self.languages = ["Nepali (native)", "Hindi (fluent)",
+                          "English (fluent)", "German (A1 completed)"]
 
         self.roles = [
             "🛠️  IT Engineer              →  Everest IT (2026–)",
@@ -101,16 +107,17 @@ class IshwariRaut:
 
     def current_focus(self):
         return {
-            "research" : ["LLM Fairness Audits", "Pre-registration",
-                          "Bootstrap CIs", "BH-FDR Correction"],
-            "ml"       : ["PyTorch", "ONNX Runtime", "MobileNetV3"],
-            "cloud"    : ["Microsoft Azure", "Windows Server",
-                          "Docker Compose", "Virtualization"],
-            "building" : ["Laravel 13 + Filament v5", "Flutter Apps",
-                          "n8n · Power Automate · Apps Script"],
-            "teaching" : ["Python Programming", "Logic & Problem Solving"],
-            "learning" : ["AZ-900 → AZ-104", "Deutsch (A1 done)",
-                          "LLM Prompting"],
+            "ai_agents"  : ["LLM agent workflows", "Tool use and orchestration",
+                            "Prompt and evaluation pipelines"],
+            "automation" : ["n8n", "Microsoft Power Automate",
+                            "Google Apps Script", "Scheduled job pipelines"],
+            "research"   : ["LLM fairness auditing", "Pre-registration",
+                            "Bootstrap CIs", "Benjamini-Hochberg FDR"],
+            "ml"         : ["PyTorch", "ONNX Runtime", "MobileNetV3"],
+            "cloud"      : ["Microsoft Azure", "Windows Server",
+                            "Docker Compose", "Virtualisation"],
+            "backend"    : ["Laravel 13", "Filament v5", "Django", "MySQL 8"],
+            "teaching"   : ["Python programming", "Logic and problem solving"],
         }
 
     def shipped(self):
@@ -123,11 +130,9 @@ class IshwariRaut:
             "☁️ Enterprise IT Lab                (AD · DNS · Exchange · VoIP)",
         ]
 
-    def fun_fact(self):
-        return ("I automate real things with Google Sheets "
-                "before writing a single line of code ⚡")
-
-╚══════════════════════════════════════════════════════════════╝
+    def principle(self):
+        return ("Automate the process before optimising the tool - "
+                "a workflow that runs itself is worth more than a faster manual one.")
 ```
 
 ---
@@ -224,35 +229,74 @@ class IshwariRaut:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,30:B026FF,70:FF10F0,100:020014&height=2" width="100%"/>
 
 <details open>
-<summary><h2>🛠️ ⠀TECH STACK & TOOLS⠀ 🛠️</h2></summary>
+<summary><h2>TECH STACK &amp; TOOLS</h2></summary>
 
 <br/>
 
 <table>
 
-<!-- ─── ROW 1 ─── -->
+<!-- ─── ROW 1 — AI AGENTS + AUTOMATION ─── -->
 <tr>
 <td valign="top" width="50%">
 
-#### 🌐 ⠀WEB FRONTEND
-> `HTML` → `CSS` → framework
+#### 🤖 ⠀AI AGENTS &amp; LLM WORKFLOWS
+> Model → prompt → tool use → evaluation
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&theme=dark" />
+![Claude](https://img.shields.io/badge/Claude-0a0118?style=for-the-badge&logo=anthropic&logoColor=FFB627&labelColor=0a0118)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0a0118?style=for-the-badge&logo=openai&logoColor=00FFF7&labelColor=0a0118)
+![Gemini](https://img.shields.io/badge/Gemini-0a0118?style=for-the-badge&logo=googlegemini&logoColor=B026FF&labelColor=0a0118)
+![Grok](https://img.shields.io/badge/Grok-0a0118?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0a0118)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0a0118?style=for-the-badge&logoColor=FF10F0&labelColor=0a0118)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0a0118?style=for-the-badge&logoColor=00FFF7&labelColor=0a0118)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_%26_Eval_Design-0a0118?style=for-the-badge&logoColor=B026FF&labelColor=0a0118)
 
 </td>
 <td valign="top" width="50%">
 
-#### ⚡ ⠀JAVASCRIPT ECOSYSTEM
-> `JS` → `Node` → `React` → `TS` → `React Flow`
+#### ⚙️ ⠀WORKFLOW &amp; PROCESS AUTOMATION
+> Trigger → orchestration → system of record
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,ts&theme=dark" />
-
-![React Flow](https://img.shields.io/badge/React_Flow-0a0118?style=for-the-badge&logo=react&logoColor=00FFF7&labelColor=0a0118)
+![n8n](https://img.shields.io/badge/n8n-0a0118?style=for-the-badge&logo=n8n&logoColor=FF10F0&labelColor=0a0118)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0a0118?style=for-the-badge&logo=powerautomate&logoColor=B026FF&labelColor=0a0118)
+![Apps Script](https://img.shields.io/badge/Apps_Script-0a0118?style=for-the-badge&logo=google&logoColor=00FFF7&labelColor=0a0118)
+![Sheets](https://img.shields.io/badge/Google_Sheets-0a0118?style=for-the-badge&logo=googlesheets&logoColor=00FFF7&labelColor=0a0118)
+![Excel](https://img.shields.io/badge/Excel-0a0118?style=for-the-badge&logo=microsoftexcel&logoColor=B026FF&labelColor=0a0118)
+![Airtable](https://img.shields.io/badge/Airtable-0a0118?style=for-the-badge&logo=airtable&logoColor=FFB627&labelColor=0a0118)
+![PowerShell](https://img.shields.io/badge/PowerShell-0a0118?style=for-the-badge&logo=powershell&logoColor=FF10F0&labelColor=0a0118)
 
 </td>
 </tr>
 
-<!-- ─── ROW 2 ─── -->
+<!-- ─── ROW 2 — ML + CLOUD ─── -->
+<tr>
+<td valign="top">
+
+#### 🧪 ⠀MACHINE LEARNING &amp; RESEARCH
+> `PyTorch` → `ONNX Runtime` → deployment
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-0a0118?style=for-the-badge&logo=onnx&logoColor=00FFF7&labelColor=0a0118)
+![MobileNetV3](https://img.shields.io/badge/MobileNetV3-0a0118?style=for-the-badge&logo=pytorch&logoColor=FF10F0&labelColor=0a0118)
+![statsmodels](https://img.shields.io/badge/statsmodels-0a0118?style=for-the-badge&logo=scipy&logoColor=B026FF&labelColor=0a0118)
+![Experimental Design](https://img.shields.io/badge/Pre--registration_%26_BH--FDR-0a0118?style=for-the-badge&logoColor=FFB627&labelColor=0a0118)
+
+</td>
+<td valign="top">
+
+#### ☁️ ⠀CLOUD &amp; INFRASTRUCTURE
+> `Azure` → `Linux` + `Windows Server` → `Docker` → VMs
+
+<img src="https://skillicons.dev/icons?i=azure,linux,docker&theme=dark" />
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0a0118?style=for-the-badge&logo=windows&logoColor=00FFF7&labelColor=0a0118)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0a0118?style=for-the-badge&logo=microsoft&logoColor=B026FF&labelColor=0a0118)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0a0118?style=for-the-badge&logo=virtualbox&logoColor=FF10F0&labelColor=0a0118)
+
+</td>
+</tr>
+
+<!-- ─── ROW 3 — PYTHON + PHP ─── -->
 <tr>
 <td valign="top">
 
@@ -278,7 +322,29 @@ class IshwariRaut:
 </td>
 </tr>
 
-<!-- ─── ROW 3 ─── -->
+<!-- ─── ROW 4 — WEB + JS ─── -->
+<tr>
+<td valign="top">
+
+#### 🌐 ⠀WEB FRONTEND
+> `HTML` → `CSS` → framework
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&theme=dark" />
+
+</td>
+<td valign="top">
+
+#### ⚡ ⠀JAVASCRIPT ECOSYSTEM
+> `JS` → `Node` → `React` → `TS` → `React Flow`
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,ts&theme=dark" />
+
+![React Flow](https://img.shields.io/badge/React_Flow-0a0118?style=for-the-badge&logo=react&logoColor=00FFF7&labelColor=0a0118)
+
+</td>
+</tr>
+
+<!-- ─── ROW 5 — MOBILE + JAVA/C# ─── -->
 <tr>
 <td valign="top">
 
@@ -298,7 +364,7 @@ class IshwariRaut:
 </td>
 </tr>
 
-<!-- ─── ROW 4 ─── -->
+<!-- ─── ROW 6 — EMBEDDED + DATABASES ─── -->
 <tr>
 <td valign="top">
 
@@ -310,8 +376,8 @@ class IshwariRaut:
 </td>
 <td valign="top">
 
-#### 🗄️ ⠀DATABASES & STORAGE
-> SQL family + NoSQL + cache/object store
+#### 🗄️ ⠀DATABASES &amp; STORAGE
+> SQL family + NoSQL + cache / object store
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
@@ -321,24 +387,12 @@ class IshwariRaut:
 </td>
 </tr>
 
-<!-- ─── ROW 5 — CLOUD + NETWORKING ─── -->
+<!-- ─── ROW 7 — NETWORKING + ENGINEERING PRACTICE ─── -->
 <tr>
 <td valign="top">
 
-#### ☁️ ⠀CLOUD & INFRASTRUCTURE
-> `Azure` → `Linux` + `Windows Server` → `Docker` → VMs
-
-<img src="https://skillicons.dev/icons?i=azure,linux,docker&theme=dark" />
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0a0118?style=for-the-badge&logo=windows&logoColor=00FFF7&labelColor=0a0118)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0a0118?style=for-the-badge&logo=microsoft&logoColor=B026FF&labelColor=0a0118)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0a0118?style=for-the-badge&logo=virtualbox&logoColor=FF10F0&labelColor=0a0118)
-
-</td>
-<td valign="top">
-
-#### 🔌 ⠀NETWORKING & ENTERPRISE IT
-> Hands-on enterprise infra
+#### 🔌 ⠀NETWORKING &amp; ENTERPRISE IT
+> Hands-on enterprise infrastructure
 
 ![Cisco](https://img.shields.io/badge/Cisco-0a0118?style=for-the-badge&logo=cisco&logoColor=00FFF7&labelColor=0a0118)
 ![AD](https://img.shields.io/badge/Active_Directory-0a0118?style=for-the-badge&logo=microsoft&logoColor=B026FF&labelColor=0a0118)
@@ -346,53 +400,6 @@ class IshwariRaut:
 ![Exchange](https://img.shields.io/badge/Exchange-0a0118?style=for-the-badge&logo=microsoftoutlook&logoColor=00FFF7&labelColor=0a0118)
 ![VoIP](https://img.shields.io/badge/VoIP-0a0118?style=for-the-badge&logo=webrtc&logoColor=FF10F0&labelColor=0a0118)
 ![IP](https://img.shields.io/badge/IP_Addressing-0a0118?style=for-the-badge&logo=cisco&logoColor=B026FF&labelColor=0a0118)
-
-</td>
-</tr>
-
-<!-- ─── ROW 6 — ML/RESEARCH + AI ─── -->
-<tr>
-<td valign="top">
-
-#### 🧪 ⠀MACHINE LEARNING & RESEARCH
-> `PyTorch` → `ONNX Runtime` → deployment
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-0a0118?style=for-the-badge&logo=onnx&logoColor=00FFF7&labelColor=0a0118)
-![MobileNetV3](https://img.shields.io/badge/MobileNetV3-0a0118?style=for-the-badge&logo=pytorch&logoColor=FF10F0&labelColor=0a0118)
-![statsmodels](https://img.shields.io/badge/statsmodels-0a0118?style=for-the-badge&logo=scipy&logoColor=B026FF&labelColor=0a0118)
-![Experimental Design](https://img.shields.io/badge/Pre--registration_%26_BH--FDR-0a0118?style=for-the-badge&logoColor=FFB627&labelColor=0a0118)
-
-</td>
-<td valign="top">
-
-#### 🤖 ⠀AI TOOLS & LLM WORKFLOWS
-> Automations and pipelines
-
-![Claude](https://img.shields.io/badge/Claude-0a0118?style=for-the-badge&logo=anthropic&logoColor=FFB627&labelColor=0a0118)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0a0118?style=for-the-badge&logo=openai&logoColor=00FFF7&labelColor=0a0118)
-![Gemini](https://img.shields.io/badge/Gemini-0a0118?style=for-the-badge&logo=googlegemini&logoColor=B026FF&labelColor=0a0118)
-![Grok](https://img.shields.io/badge/Grok-0a0118?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0a0118)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-0a0118?style=for-the-badge&logoColor=FF10F0&labelColor=0a0118)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0a0118?style=for-the-badge&logoColor=00FFF7&labelColor=0a0118)
-
-</td>
-</tr>
-
-<!-- ─── ROW 7 — AUTOMATION + ENGINEERING PRACTICE ─── -->
-<tr>
-<td valign="top">
-
-#### 📊 ⠀SPREADSHEET & WORKFLOW AUTOMATION
-> Production systems, not formulas
-
-![Sheets](https://img.shields.io/badge/Google_Sheets-0a0118?style=for-the-badge&logo=googlesheets&logoColor=00FFF7&labelColor=0a0118)
-![Apps Script](https://img.shields.io/badge/Apps_Script-0a0118?style=for-the-badge&logo=google&logoColor=FF10F0&labelColor=0a0118)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0a0118?style=for-the-badge&logo=powerautomate&logoColor=B026FF&labelColor=0a0118)
-![Excel](https://img.shields.io/badge/Excel-0a0118?style=for-the-badge&logo=microsoftexcel&logoColor=B026FF&labelColor=0a0118)
-![Airtable](https://img.shields.io/badge/Airtable-0a0118?style=for-the-badge&logo=airtable&logoColor=FFB627&labelColor=0a0118)
-![n8n](https://img.shields.io/badge/n8n-0a0118?style=for-the-badge&logo=n8n&logoColor=FF10F0&labelColor=0a0118)
 
 </td>
 <td valign="top">
@@ -414,13 +421,12 @@ class IshwariRaut:
 <tr>
 <td colspan="2" valign="top">
 
-#### 🧰 ⠀DEV TOOLS & ENVIRONMENT
+#### 🧰 ⠀DEVELOPER TOOLS &amp; ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" />
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0a0118?style=for-the-badge&logo=mathworks&logoColor=FF10F0&labelColor=0a0118)
 ![Bash](https://img.shields.io/badge/Bash-0a0118?style=for-the-badge&logo=gnubash&logoColor=00FFF7&labelColor=0a0118)
-![PowerShell](https://img.shields.io/badge/PowerShell-0a0118?style=for-the-badge&logo=powershell&logoColor=B026FF&labelColor=0a0118)
 
 </td>
 </tr>
@@ -435,7 +441,7 @@ class IshwariRaut:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,30:FF10F0,70:00FFF7,100:020014&height=2" width="100%"/>
 
 <details open>
-<summary><h2>🏗️ ⠀PROJECTS BUILT⠀ 🏗️</h2></summary>
+<summary><h2>SELECTED PROJECTS</h2></summary>
 
 <br/>
 
@@ -445,19 +451,19 @@ class IshwariRaut:
 
 ### 🧪 ⠀LLM RÉSUMÉ-SCREENING BIAS AUDIT
 
-> Paired correspondence audit testing whether LLM CV screeners score otherwise-identical candidates differently by name origin, gender signal or institution. 150 base CVs across three quality tiers, variants byte-identical except the manipulated token. Six hypotheses pre-registered and git-tagged before the main run.
+> Paired correspondence audit testing whether LLM CV screeners score otherwise-identical candidates differently by name origin, gender signal or institution. 150 base CVs across three quality tiers, variants byte-identical except the manipulated token, enforced by an automated single-difference assertion. Six hypotheses and the full analysis plan pre-registered and git-tagged before the main run; effect sizes reported with bootstrap confidence intervals under Benjamini-Hochberg correction.
 
 ![Python](https://img.shields.io/badge/Python-0a0118?style=flat-square&logo=python&logoColor=00FFF7&labelColor=0a0118)
 ![statsmodels](https://img.shields.io/badge/statsmodels-0a0118?style=flat-square&logo=scipy&logoColor=FF10F0&labelColor=0a0118)
 ![uv](https://img.shields.io/badge/uv-0a0118?style=flat-square&logo=python&logoColor=FFB627&labelColor=0a0118)
-![Research](https://img.shields.io/badge/Pre--registered-0a0118?style=flat-square&logoColor=B026FF&labelColor=0a0118)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0a0118?style=flat-square&logoColor=B026FF&labelColor=0a0118)
 
 </td>
 <td valign="top" width="50%">
 
 ### 🅿️ ⠀APMS — PARKING OCCUPANCY DETECTION
 
-> Multi-tenant parking management with a headless containerised detection worker talking to Django over an authenticated HTTP API. MobileNetV3-Small benchmarked against a pixel-count baseline on PKLot and CNRPark-EXT, with day-seeded splits to stop near-duplicate frame leakage. Exported to ONNX after PyTorch parity checks.
+> Multi-tenant parking management platform with a headless containerised detection worker communicating with the Django server only through an authenticated HTTP API. MobileNetV3-Small benchmarked against a fixed pixel-count baseline on PKLot and CNRPark-EXT, with capture-day seeded splits to prevent near-duplicate frame leakage. Exported to ONNX after verifying parity with PyTorch, with contract tests covering idempotent ingest, retries and dead-camera handling.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0118?style=flat-square&logo=pytorch&logoColor=FF10F0&labelColor=0a0118)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-0a0118?style=flat-square&logo=onnx&logoColor=00FFF7&labelColor=0a0118)
@@ -472,7 +478,7 @@ class IshwariRaut:
 
 ### 🗺️ ⠀CODEATLAS — FOUNDING CONTRIBUTOR
 
-> Open-source static analysis and architecture visualisation tool for Laravel, published on Packagist. 50+ commits across a seven-package PHP monorepo, concentrated in the React/TypeScript graph UI (React Flow, strict mode) and the framework-agnostic file scanner. PHPStan level max and Pest coverage gated on every PR.
+> Open-source static analysis and architecture visualisation tool for Laravel, published on Packagist. 50+ commits across a seven-package PHP monorepo, concentrated in the React/TypeScript graph interface (React Flow, strict mode) and the framework-agnostic file scanner. Delivered under PHPStan level max, per-package Pest coverage and CI gates on every pull request.
 
 [![Repo](https://img.shields.io/badge/snova--labs%2Fcodeatlas-0a0118?style=flat-square&logo=github&logoColor=00FFF7&labelColor=0a0118)](https://github.com/snova-labs/codeatlas)
 ![PHP](https://img.shields.io/badge/PHP_8.3-0a0118?style=flat-square&logo=php&logoColor=B026FF&labelColor=0a0118)
@@ -484,7 +490,7 @@ class IshwariRaut:
 
 ### 📋 ⠀EVEREST IT SMS — v1 → v2
 
-> Built the institute's original registration, attendance and monthly reporting system in Sheets + Apps Script and ran it in production — then rebuilt it as a Laravel modular monolith for multiple branches, courses, batches and timezones. Configuration-over-code data model, strategy-based grading engine, UTC storage with batch-local dates covered by DST-crossing tests.
+> Built the institute's original registration, attendance and monthly reporting system in Sheets and Apps Script and ran it in production, then rebuilt it as a Laravel modular monolith supporting multiple branches, courses, batches and timezones. Configuration-over-code data model, strategy-based grading engine normalising every scheme to one column, and timezone-correct scheduling covered by DST-crossing tests.
 
 ![Laravel](https://img.shields.io/badge/Laravel_13-0a0118?style=flat-square&logo=laravel&logoColor=FF10F0&labelColor=0a0118)
 ![Filament](https://img.shields.io/badge/Filament_v5-0a0118?style=flat-square&logo=laravel&logoColor=FFB627&labelColor=0a0118)
@@ -498,7 +504,7 @@ class IshwariRaut:
 
 ### 🛒 ⠀E-DOKO
 
-> Cross-platform e-commerce app — search, filtering, category and brand browsing, ratings, reviews, size variants, wishlist, cart, checkout, order tracking and theming. Extended the internship prototype with a recommendation engine driven by wishlist, search and purchase behaviour. Final-year capstone, Grade A (4.0).
+> Cross-platform e-commerce application — search, filtering and sorting, category and brand browsing, ratings, reviews, size variants, wishlist, cart, checkout, order tracking and theming. Extended the internship prototype with a recommendation engine driven by wishlist, search and purchase behaviour. Final-year capstone, Grade A (4.0), with a full UML design set and documented test cases.
 
 ![Flutter](https://img.shields.io/badge/Flutter-0a0118?style=flat-square&logo=flutter&logoColor=00FFF7&labelColor=0a0118)
 ![Dart](https://img.shields.io/badge/Dart-0a0118?style=flat-square&logo=dart&logoColor=00FFF7&labelColor=0a0118)
@@ -507,33 +513,23 @@ class IshwariRaut:
 </td>
 <td valign="top">
 
-### 💰 ⠀PERSONAL EXPENSE TRACKER
+### ⚙️ ⠀OPERATIONS AUTOMATION SUITE
 
-> Auto-categorised spending with monthly summaries and visual dashboards. Zero manual entry — triggers and formulas handle everything.
+> Workflow automations for student administration at Everest IT, built with Microsoft Power Automate, n8n and Google Apps Script — alongside an auto-categorised expense tracker and a configurable study progress tracker for IELTS and German A1→B2. Trigger-driven throughout, with no manual data entry.
 
-![Sheets](https://img.shields.io/badge/Google_Sheets-0a0118?style=flat-square&logo=googlesheets&logoColor=00FFF7&labelColor=0a0118)
-![Apps Script](https://img.shields.io/badge/Apps_Script-0a0118?style=flat-square&logo=google&logoColor=FF10F0&labelColor=0a0118)
-![Finance](https://img.shields.io/badge/Finance-0a0118?style=flat-square&logoColor=FFB627&labelColor=0a0118)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0a0118?style=flat-square&logo=powerautomate&logoColor=B026FF&labelColor=0a0118)
+![n8n](https://img.shields.io/badge/n8n-0a0118?style=flat-square&logo=n8n&logoColor=FF10F0&labelColor=0a0118)
+![Apps Script](https://img.shields.io/badge/Apps_Script-0a0118?style=flat-square&logo=google&logoColor=00FFF7&labelColor=0a0118)
+![Sheets](https://img.shields.io/badge/Google_Sheets-0a0118?style=flat-square&logo=googlesheets&logoColor=FFB627&labelColor=0a0118)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td colspan="2" valign="top">
 
-### 📚 ⠀STUDY PROGRESS TRACKER
+### ☁️ ⠀ENTERPRISE IT LABORATORY
 
-> Configurable syllabus tracker for IELTS, German A1→B2, or any subject — add topics, mark completion, track progress over time.
-
-![Sheets](https://img.shields.io/badge/Google_Sheets-0a0118?style=flat-square&logo=googlesheets&logoColor=00FFF7&labelColor=0a0118)
-![Apps Script](https://img.shields.io/badge/Apps_Script-0a0118?style=flat-square&logo=google&logoColor=FF10F0&labelColor=0a0118)
-![Languages](https://img.shields.io/badge/IELTS_%26_German-0a0118?style=flat-square&logoColor=B026FF&labelColor=0a0118)
-
-</td>
-<td valign="top">
-
-### ☁️ ⠀ENTERPRISE IT LAB
-
-> Windows Server environment with Active Directory, DNS/DHCP, Microsoft Exchange with working inbound and outbound mail flow, Cisco router configuration, and a full VoIP system using Cisco and Microsoft Teams. Built and operated as Assistant Teacher at Everest IT.
+> Windows Server environment with Active Directory, DNS and DHCP; Microsoft Exchange Server deployed with working inbound and outbound mail flow; Cisco router configuration and a full VoIP system using Cisco and Microsoft Teams. Built and operated as part of the instruction programme at Everest IT.
 
 ![Azure](https://img.shields.io/badge/Azure-0a0118?style=flat-square&logo=microsoftazure&logoColor=00FFF7&labelColor=0a0118)
 ![Win Server](https://img.shields.io/badge/Windows_Server-0a0118?style=flat-square&logo=windows&logoColor=00FFF7&labelColor=0a0118)
@@ -541,12 +537,11 @@ class IshwariRaut:
 ![AD](https://img.shields.io/badge/Active_Directory-0a0118?style=flat-square&logo=microsoft&logoColor=B026FF&labelColor=0a0118)
 ![Exchange](https://img.shields.io/badge/Exchange-0a0118?style=flat-square&logo=microsoftoutlook&logoColor=FF10F0&labelColor=0a0118)
 ![VoIP](https://img.shields.io/badge/VoIP-0a0118?style=flat-square&logo=webrtc&logoColor=FFB627&labelColor=0a0118)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0a0118?style=flat-square&logo=microsoft&logoColor=00FFF7&labelColor=0a0118)
 
 </td>
 </tr>
 </table>
-
-> ✨ *More projects launching soon — currently building in private repos.*
 
 </details>
 
@@ -557,49 +552,49 @@ class IshwariRaut:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,30:00FFF7,70:B026FF,100:020014&height=2" width="100%"/>
 
 <details open>
-<summary><h2>🎯 ⠀LEARNING ROADMAP⠀ 🎯</h2></summary>
+<summary><h2>TIMELINE &amp; ROADMAP</h2></summary>
 
 <br/>
 
 ```
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                 │
-│  ⟪ 2018 ⟫  ✅  +2 Computer Science                              │
-│              └─ Vishwa Adarsha College                          │
-│                                                                 │
-│  ⟪ 2023 ⟫  ✅  Flutter Developer Intern                         │
-│              └─ e-Doko @ Quality IT Solutions                   │
-│                                                                 │
-│  ⟪ 2024 ⟫  ✅  BCA Graduate — 3.48/4.00 · First Division        │
-│              └─ Vishwa Adarsha College, Tribhuvan University    │
-│                                                                 │
-│  ⟪ 2025 ⟫  ✅  Cloud Intern + Assistant Teacher                 │
-│              └─ Everest IT                                      │
-│                                                                 │
-│  ⟪ 2025 ⟫  ✅  Built SMS · Expense · Study Tracker              │
-│              └─ Google Sheets + Apps Script                     │
-│                                                                 │
-│  ⟪ 2025 ⟫  ✅  CodeAtlas — Founding Contributor                 │
-│              └─ PHP monorepo · React Flow UI                    │
-│                                                                 │
-│  ⟪ 2026 ⟫  ✅  IT Engineer @ Everest IT                         │
-│              └─ Infra · Exchange · Power Automate · n8n         │
-│                                                                 │
-│  ⟪ 2026 ⟫  ✅  SMS v2 — Laravel 13 · Filament v5 · MySQL 8      │
-│                                                                 │
-│  ⟪ 2026 ⟫  ✅  German A1 coursework completed                   │
-│                                                                 │
-│  ⟪ 2026 ⟫  🔄  APMS — Parking Occupancy Detection   ← NOW       │
-│              └─ PyTorch → ONNX → Django → Docker                │
-│                                                                 │
-│  ⟪ 2026 ⟫  🔄  LLM Résumé-Screening Bias Audit      ← NOW       │
-│              └─ Pre-registered · statsmodels · BH-FDR           │
-│                                                                 │
-│  ⟪ 2026 ⟫  🎯  Azure Fundamentals (AZ-900) → AZ-104             │
-│                                                                 │
-│  ⟪ 2026 ⟫  🎯  Claude Certified Architect (CCA)                 │
-│                                                                 │
-╰─────────────────────────────────────────────────────────────────╯
+  2018    [done]   Higher Secondary (+2), Computer Science
+                   Vishwa Adarsha Secondary School
+
+  2023    [done]   Flutter Developer Intern
+                   Quality IT Solutions Pvt. Ltd.
+
+  2024    [done]   BCA Graduate - 3.48/4.00, First Division
+                   Vishwa Adarsha College, Tribhuvan University
+
+  2025    [done]   CS Instructor - Everest IT
+                   Python programming, logic and problem solving
+
+  2025    [done]   SMS v1, Expense Tracker, Study Tracker
+                   Google Sheets + Apps Script, in production
+
+  2025    [done]   CodeAtlas - Founding Contributor
+                   Seven-package PHP monorepo, React Flow UI
+
+  2026    [done]   IT Engineer - Everest IT
+                   Windows Server, AD, DNS/DHCP, Exchange, automation
+
+  2026    [done]   Everest IT SMS v2
+                   Laravel 13, Filament v5, MySQL 8, Redis, Docker
+
+  2026    [done]   German A1 coursework completed
+
+  2026    [active] APMS - Parking Occupancy Detection
+                   PyTorch -> ONNX -> Django -> Docker
+
+  2026    [active] LLM Resume-Screening Bias Audit
+                   Pre-registered, statsmodels, BH-FDR correction
+
+  2026    [active] AI Agent & Workflow Automation Systems
+                   Agentic pipelines over n8n, Power Automate, Apps Script
+
+  2026    [next]   Azure Administrator Associate (AZ-104)
+
+  2026    [next]   Claude Certified Architect (CCA)
 ```
 
 </details>
@@ -611,7 +606,7 @@ class IshwariRaut:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,30:B026FF,70:00FFF7,100:020014&height=2" width="100%"/>
 
 <details open>
-<summary><h2>📊 ⠀GITHUB STATS⠀ 📊</h2></summary>
+<summary><h2>GITHUB STATS</h2></summary>
 
 <br/>
 
@@ -627,7 +622,7 @@ class IshwariRaut:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=snova-code&bg_color=0a0118&color=FFB627&line=00FFF7&point=FF10F0&area=true&area_color=B026FF&hide_border=true&custom_title=Contribution+Graph%20%E2%9A%A1" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=snova-code&bg_color=0a0118&color=FFB627&line=00FFF7&point=FF10F0&area=true&area_color=B026FF&hide_border=true&custom_title=Contribution+Graph" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
@@ -638,7 +633,6 @@ class IshwariRaut:
 </details>
 
 ---
-
 <!-- ░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
@@ -651,10 +645,10 @@ class IshwariRaut:
 
 <!-- ░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,30:B026FF,70:FF10F0,100:020014&height=140&section=footer&text=Made%20with%20%E2%9A%A1%20from%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,30:B026FF,70:FF10F0,100:020014&height=140&section=footer&text=Building%20systems%20that%20run%20themselves&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-> ⚡ *"Code is the new electricity. Automation is the new magic."* ⚡
+> *Automate the process before optimising the tool.*
 
 </div>
