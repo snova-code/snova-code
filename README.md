@@ -5,10 +5,10 @@
 <!-- ║  #020014 · #00FFF7 · #FF10F0 · #B026FF · #FFB627            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,25:0a0118,50:B026FF,75:FF10F0,100:00FFF7&height=280&section=header&text=Ishwari%20Raut&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20AI%20Agents%20%26%20Automation%20%E2%80%A2%20ML%20Research%20%26%20Cloud%20Infrastructure&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,25:0a0118,50:B026FF,75:FF10F0,100:00FFF7&height=280&section=header&text=Ishwari%20Raut&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20AI%20Agents%20and%20Automation%20%E2%80%A2%20ML%20Research%20%E2%80%A2%20Cloud%20Infrastructure&descAlignY=58&descSize=15" width="100%"/>
 
 <a href="https://github.com/snova-code">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Engineer+%40+Everest+IT;AI+Agents+%26+Workflow+Automation;ML+Research+%7C+LLM+Evaluation;Cloud+Infrastructure+%26+Full-Stack+Development&font=Fira+Code&center=true&width=660&height=55&color=00FFF7&vCenter=true&pause=1200&size=23&duration=3800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Engineer+at+Everest+IT;AI+Agents+and+Workflow+Automation;ML+Research+and+LLM+Evaluation;Cloud+Infrastructure+and+Full-Stack+Development&font=Fira+Code&center=true&width=660&height=55&color=00FFF7&vCenter=true&pause=1200&size=23&duration=3800" alt="Typing SVG" />
 </a>
 
 <br/>
